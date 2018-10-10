@@ -1,5 +1,5 @@
 
-# Molecular NativeCall
+# Moleculer NativeCall
 Use other services as native objects for [MoleculerJS framework](https://github.com/moleculerjs/moleculer)
 
 
