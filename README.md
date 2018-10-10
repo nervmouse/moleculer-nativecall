@@ -1,6 +1,6 @@
 
 # Molecular NativeCall
-Use other services as native objects inside services for [MoleculerJS framework](https://github.com/moleculerjs/moleculer)
+Use other services as native objects for [MoleculerJS framework](https://github.com/moleculerjs/moleculer)
 
 
 ## Install
@@ -53,3 +53,6 @@ NativeCall.require(broker,['math']).then($env=>{
   //$env.math will be the service object 
 });
 ```
+## License
+
+[MIT license](https://tldrlegal.com/license/mit-license)
