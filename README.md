@@ -5,7 +5,7 @@ Use other services as native objects for [MoleculerJS framework](https://github.
 
 ## Install
 ```
-$ npm install nervmouse/moleculer-nativecall
+$ npm install moleculer-nativecall
 ```
 ## Usage
 The ordinary way to call an action of service `math`
