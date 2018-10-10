@@ -1,5 +1,5 @@
 {
-  "name": "molecular-nativecall",
+  "name": "moleculer-nativecall",
   "version": "0.0.1",
   "description": "Wrap service \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[F\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cas native object\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[F\u001b[F\u001b[F\u001b[B\u001b[B\u001b[B\u001b[F\u001b[B\u001b[D\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cobject",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nervmouse/molecular-nativecall.git"
+    "url": "git+https://github.com/nervmouse/moleculer-nativecall.git"
   },
   "keywords": [
     "molecularjs"
@@ -16,7 +16,7 @@
   "author": "Jim Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nervmouse/molecular-nativecall/issues"
+    "url": "https://github.com/nervmouse/moleculer-nativecall/issues"
   },
-  "homepage": "https://github.com/nervmouse/molecular-nativecall#readme"
+  "homepage": "https://github.com/nervmouse/moleculer-nativecall#readme"
 }
