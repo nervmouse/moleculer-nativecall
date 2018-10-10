@@ -1,0 +1,19 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+.brackets.json
+package-lock.json
+yarn.lock
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# cache, log
+log
+log.txt
