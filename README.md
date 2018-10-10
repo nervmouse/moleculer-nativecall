@@ -38,11 +38,11 @@ module.exports = {
 `NativeCall` object
 
 ### require()
-` require(ctx: Context, services: Array [, env: object])`
+` require(broker: ServiceBroker, services: Array [, env: object])`
 ##### Parameters
 | Property | Type | Default | Description |
 | -------- | ---- | ------- | ----------- |
-| `broker` | broker| - | broker for access services |
+| `broker` | ServiceBroker| - | broker for accessing services |
 | `services` | Array| - | List of services to be loaded |
 | `env` | Object| {} | (optional) The place to assign service objects. The object will be return in promise. eg. global |
 |  |  |

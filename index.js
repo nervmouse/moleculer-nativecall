@@ -8,13 +8,13 @@
 "use strict";
 
 module.exports={
-    require(ctx,$services=[],$env={}){
+    require($broker,$services=[],$env={}){
         if (!Array.isArray($services)){
             $services=[$services];
         }
         let $servicenames=$services.map( $s => (typeof($s)==='object')?$s.name:$s);
-        return ctx.waitForServices($services).then( ()=>{
-            for (let $sv of ctx.broker.services){
+        return $broker.waitForServices($services).then( ()=>{
+            for (let $sv of $broker.services){
                 let $sv_name=$sv.name;
                 if ($servicenames.includes($sv_name)){
                     let $sv_obj=$env[$sv_name]={};
